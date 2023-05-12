@@ -1,5 +1,5 @@
 # frete
-Programa de fretes desenvolvido integralmente por mim com um prazo de uma semana.
+Programa de fretes desenvolvido integralmente por mim com prazo de uma semana.
 Abaixo, segue uma explicação detalhada do seu funcionamento.
 
 <details>
