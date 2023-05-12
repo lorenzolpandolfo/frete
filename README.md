@@ -3,8 +3,7 @@ Programa de fretes desenvolvido integralmente por mim com um prazo de uma semana
 Abaixo, segue uma explicação detalhada do seu funcionamento.
 
 <details>
-<summary>Clique aqui para ler mais</summary>
-
+<summary>Clique aqui para ler a explicação completa do código./summary>
   Ao iniciar, o programa exibe uma tela de menu com 4 opções de escolha, sendo elas 
 as funcionalidades: “Consultar Trecho x Modalidade”, “Registrar Transporte”, 
 “Dados Estatísticos” e “Finalizar Programa”. Para o programa funcionar, existe uma
