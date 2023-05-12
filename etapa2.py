@@ -3,7 +3,7 @@ import json
 import matplotlib.pyplot as plt
 
 # abre o arquivo das distâncias com a biblioteca pandas
-arquivo = pd.read_csv('DNIT-Distancias.csv', encoding='UTF-8', sep=';')
+arquivo = pd.read_csv('distancias.csv', encoding='UTF-8', sep=';')
 
 # define a lista de cidades
 listaCidades = []
