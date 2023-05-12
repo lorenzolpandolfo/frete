@@ -4,6 +4,7 @@ Abaixo, segue uma explicação detalhada do seu funcionamento.
 
 <details>
 <summary>Clique aqui para ler mais</summary>
+
   Ao iniciar, o programa exibe uma tela de menu com 4 opções de escolha, sendo elas 
 as funcionalidades: “Consultar Trecho x Modalidade”, “Registrar Transporte”, 
 “Dados Estatísticos” e “Finalizar Programa”. Para o programa funcionar, existe uma
