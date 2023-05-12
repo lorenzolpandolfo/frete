@@ -2,6 +2,8 @@
 Programa de fretes desenvolvido integralmente por mim com um prazo de uma semana.
 Abaixo, segue uma explicação detalhada do seu funcionamento.
 
+<details>
+<summary>Clique aqui para ler mais</summary>
   Ao iniciar, o programa exibe uma tela de menu com 4 opções de escolha, sendo elas 
 as funcionalidades: “Consultar Trecho x Modalidade”, “Registrar Transporte”, 
 “Dados Estatísticos” e “Finalizar Programa”. Para o programa funcionar, existe uma
@@ -162,3 +164,4 @@ função nativa do Python, “exit”, que fecha o programa. Ainda, criei uma fu
 “erro”, que é chamada quando o usuário comete algum descuido na hora de utilizar o
 programa, informando a ele o que aconteceu de errado, e perguntando se o mesmo 
 gostaria de retornar ao Menu Principal.
+</details>
